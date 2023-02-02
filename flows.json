@@ -64,7 +64,7 @@
         "meta": {
             "module": "node-red-contrib-oscar-cowsay",
             "type": "oscar",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "author": "Vicente Rodriguez Benitez <vicente.rdguezb@gmail.com, vrodben1@i3m.upv.es>",
             "desc": "Cowsay Service at OSCAR",
             "keywords": "node-red, oscar,cowsay",
